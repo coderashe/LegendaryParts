@@ -10,7 +10,7 @@ export const BUSINESS_INFO = {
   facebookUrl: 'https://www.facebook.com/p/Legendary-Parts-Centre-100076801694414/',
   primaryWhatsAppNumber: '+263 77 681 5030',
   primaryCleanPhone: '263776815030',
-  copyrightYear: 2025,
+  copyrightYear: 2026,
   pillars: [
     {
       title: 'Imported Quality',

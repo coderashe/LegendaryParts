@@ -198,7 +198,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigateHome, onOpenInquiry })
         {/* Bottom Bar: Copyright & Scroll to Top */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-400">
           <div>
-            <p className="font-medium">© {BUSINESS_INFO.copyrightYear} Legendary Parts Center. All rights reserved.</p>
+            <p className="font-medium">© {BUSINESS_INFO.copyrightYear} powered by IStartK. All rights reserved.</p>
             <p className="text-[11px] text-slate-500 mt-0.5">
               Automotive Spare Parts & Car Maintenance Products Zimbabwe · Your One Stop Spares Shop
             </p>
