@@ -1,0 +1,8 @@
+{
+  "name": "Legendary Parts Centre",
+  "description": "Leading automotive spare parts retailer in Zimbabwe. High-grade service kits, braking systems, suspension, engine parts, and nationwide delivery with direct WhatsApp part inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
