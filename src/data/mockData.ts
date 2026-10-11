@@ -8,8 +8,8 @@ export const BUSINESS_INFO = {
   email: 'legendarypartscentre@gmail.com',
   facebook: 'Legendary Parts Centre',
   facebookUrl: 'https://www.facebook.com/p/Legendary-Parts-Centre-100076801694414/',
-  primaryWhatsAppNumber: '+263 77 259 1965',
-  primaryCleanPhone: '263772591965',
+  primaryWhatsAppNumber: '+263 77 681 5030',
+  primaryCleanPhone: '263776815030',
   copyrightYear: 2025,
   pillars: [
     {
