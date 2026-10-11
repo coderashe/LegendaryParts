@@ -39,7 +39,7 @@ export function formatInquiryMessage(data: {
   const urgencyTag = data.urgency === 'Urgent' ? '🚨 [URGENT INQUIRY]' : '📋 [PART INQUIRY]';
   
   return [
-    `*${urgencyTag} - Legendary Parts Centre*`,
+    `*${urgencyTag} - Legendary Parts Center*`,
     `----------------------------------------`,
     `👤 *Customer Name:* ${data.customerName}`,
     `📞 *Contact Number:* ${data.phoneNumber}`,
@@ -55,7 +55,7 @@ export function formatInquiryMessage(data: {
     `🔧 *PARTS REQUESTED:*`,
     `${data.partNeeded}`,
     ``,
-    `_Sent via Legendary Parts Centre online portal._`,
+    `_Sent via Legendary Parts Center online portal._`,
   ]
     .filter((line) => line !== null)
     .join('\n');

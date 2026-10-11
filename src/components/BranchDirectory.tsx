@@ -34,7 +34,7 @@ export const BranchDirectory: React.FC = () => {
             const isHQ = branch.isHQ;
             const branchWhatsAppUrl = buildWhatsAppUrl(
               branch.primaryWhatsApp,
-              `Hi Legendary Parts Centre (${branch.name}), I would like to check counter stock and inquire about automotive spare parts.`
+              `Hi Legendary Parts Center (${branch.name}), I would like to check counter stock and inquire about automotive spare parts.`
             );
 
             return (

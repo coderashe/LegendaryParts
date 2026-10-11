@@ -61,7 +61,7 @@ export const Hero: React.FC<HeroProps> = ({ onRequestPart, onBrowseCatalog }) =>
             {/* Headline Slogans matching Facebook Banner */}
             <div className="space-y-2">
               <h1 className="text-3xl sm:text-5xl md:text-6xl lg:text-6.5xl font-black tracking-tight text-white uppercase font-sans leading-[1.08]">
-                Legendary <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-300 via-sky-200 to-white">Parts Centre</span>
+                Legendary <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-300 via-sky-200 to-white">Parts Center</span>
               </h1>
 
               {/* Iconic Facebook Banner Slogan: YOUR ONE STOP SPARES SHOP */}

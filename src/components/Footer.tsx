@@ -23,7 +23,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigateHome, onOpenInquiry })
 
   const primaryWhatsAppUrl = buildWhatsAppUrl(
     BUSINESS_INFO.primaryCleanPhone,
-    "Hi Legendary Parts Centre, I'd like to make an inquiry regarding car parts."
+    "Hi Legendary Parts Center, I'd like to make an inquiry regarding car parts."
   );
 
   return (
@@ -50,7 +50,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigateHome, onOpenInquiry })
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-xl bg-blue-900/80 hover:bg-blue-800 border border-blue-600/60 flex items-center justify-center text-white transition shadow-sm"
-                title="Facebook: Legendary Parts Centre"
+                title="Facebook: Legendary Parts Center"
               >
                 <Facebook className="w-4.5 h-4.5" />
               </a>
@@ -198,7 +198,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigateHome, onOpenInquiry })
         {/* Bottom Bar: Copyright & Scroll to Top */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-400">
           <div>
-            <p className="font-medium">© {BUSINESS_INFO.copyrightYear} Legendary Parts Centre. All rights reserved.</p>
+            <p className="font-medium">© {BUSINESS_INFO.copyrightYear} Legendary Parts Center. All rights reserved.</p>
             <p className="text-[11px] text-slate-500 mt-0.5">
               Automotive Spare Parts & Car Maintenance Products Zimbabwe · Your One Stop Spares Shop
             </p>

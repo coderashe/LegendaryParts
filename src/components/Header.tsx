@@ -25,7 +25,7 @@ export const Header: React.FC<HeaderProps> = ({ currentView, onNavigate }) => {
 
   const primaryWhatsAppUrl = buildWhatsAppUrl(
     BUSINESS_INFO.primaryCleanPhone,
-    "Hi Legendary Parts Centre, I'd like to make an inquiry regarding car spare parts."
+    "Hi Legendary Parts Center, I'd like to make an inquiry regarding car spare parts."
   );
 
   const handleNavClick = (sectionId?: string) => {

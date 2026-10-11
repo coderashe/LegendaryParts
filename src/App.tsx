@@ -38,7 +38,7 @@ export default function App() {
 
   const floatingWhatsAppUrl = buildWhatsAppUrl(
     BUSINESS_INFO.primaryCleanPhone,
-    "Hi Legendary Parts Centre, I'm checking part availability on your website."
+    "Hi Legendary Parts Center, I'm checking part availability on your website."
   );
 
   return (

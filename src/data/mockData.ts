@@ -1,12 +1,12 @@
 import { Branch, CategoryInfo, Product, ServiceArea } from '../types/parts.ts';
 
 export const BUSINESS_INFO = {
-  name: 'Legendary Parts Centre',
+  name: 'Legendary Parts Center',
   slogan: 'Quality That Lasts | Buy With Confidence',
   bannerHeadline: 'YOUR ONE STOP SPARES SHOP',
   tagline: "Zimbabwe's trusted source for genuine automotive spare parts",
   email: 'legendarypartscentre@gmail.com',
-  facebook: 'Legendary Parts Centre',
+  facebook: 'Legendary Parts Center',
   facebookUrl: 'https://www.facebook.com/p/Legendary-Parts-Centre-100076801694414/',
   primaryWhatsAppNumber: '+263 77 681 5030',
   primaryCleanPhone: '263776815030',

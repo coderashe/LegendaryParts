@@ -74,7 +74,7 @@ export const BrandLogo: React.FC<BrandLogoProps> = ({ size = 'md', showText = tr
               Legendary <span className="text-blue-400">Parts</span>
             </span>
             <span className="text-[10px] font-extrabold uppercase px-1.5 py-0.5 rounded bg-red-600 text-white tracking-wider shadow-sm">
-              Centre
+              Center
             </span>
           </div>
           <div className="flex items-center gap-2 text-[11px] font-semibold text-slate-300">
