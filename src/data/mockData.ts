@@ -5,11 +5,11 @@ export const BUSINESS_INFO = {
   slogan: 'Quality That Lasts | Buy With Confidence',
   bannerHeadline: 'YOUR ONE STOP SPARES SHOP',
   tagline: "Zimbabwe's trusted source for genuine automotive spare parts",
-  email: 'legendarypartscentre@gmail.com',
+  email: 'legendarypartscenter@gmail.com',
   facebook: 'Legendary Parts Center',
   facebookUrl: 'https://www.facebook.com/p/Legendary-Parts-Centre-100076801694414/',
-  primaryWhatsAppNumber: '+263 77 681 5030',
-  primaryCleanPhone: '263776815030',
+  primaryWhatsAppNumber: '+263 77 259 1965',
+  primaryCleanPhone: '263772591965',
   copyrightYear: 2026,
   pillars: [
     {
